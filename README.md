@@ -7,7 +7,7 @@
 ***I aspire to be truly great.***
 
 I'm a CS student in Freiburg who likes getting close to the metal.
-Currently that means Rust, and making Linux software run where it wasn't meant to, mostly on Android via Termux.
+Currently that means learning Rust, and making Linux software run where it wasn't meant to, mostly on Android via Termux.
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
