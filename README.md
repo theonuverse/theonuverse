@@ -4,6 +4,8 @@
 
 ### Hey, I'm Onuralp 👋
 
+***I aspire to be truly great.***
+
 I'm a CS student in Freiburg who likes getting close to the metal.
 Currently that means Rust, and making Linux software run where it wasn't meant to, mostly on Android via Termux.
 
